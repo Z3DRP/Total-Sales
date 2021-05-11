@@ -1,0 +1,10 @@
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\bin\Debug\TotalSales.exe.config
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\bin\Debug\TotalSales.exe
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\bin\Debug\TotalSales.pdb
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.csprojAssemblyReference.cache
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.Properties.Resources.resources
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.GenerateResource.cache
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.CoreCompileInputs.cache
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.exe
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.pdb
+C:\Users\Apex1\source\C#\TotalSales\TotalSales\obj\Debug\TotalSales.Sales.resources
